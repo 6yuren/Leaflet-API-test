@@ -1,0 +1,2165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.35154,
+                    24.95448
+                ]
+            },
+            "properties": {
+                "圖徵編號": "1",
+                "id_1": "650001",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=1",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "74",
+                "CBH_cm": "232",
+                "id_2": "107-鶯-01",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/e6d970d44c9f4050a09f1e1b1e1aaa38.JPEG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220426",
+                "description": "鶯歌市區的中正一路上，在巷弄裡的三叉路口中央可以發現一棵大榕樹，雖然四周被建築包圍，卻相當引人注目。其實它是一棵超過160歲的老樹，陪伴當地社區相當長的一段時間，也見證了當地發展的變遷。樹下有簡單的座位提供人們休息乘涼，時常可見附近居民、長者聚在樹下閒話家常。是社區中重要的公共社交空間。",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "鶯歌區",
+                "location": "鶯歌區中正一路65巷11號旁",
+                "state": "公告列管",
+                "esti_age": "167",
+                "height_m": "9.1",
+                "建立時間": "2022/6/14 下午 02:29:39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.36496,
+                    24.97642
+                ]
+            },
+            "properties": {
+                "圖徵編號": "2",
+                "id_1": "650002",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=2",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "217",
+                "CBH_cm": "680",
+                "id_2": "107-鶯-02",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "鶯歌區",
+                "location": "鶯歌區東湖街圳頭坑 5 號前路旁(日月圓咖啡前)",
+                "state": "公告列管",
+                "esti_age": "217",
+                "height_m": "13.9",
+                "建立時間": "2022/6/14 下午 02:29:39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.36614,
+                    24.97667
+                ]
+            },
+            "properties": {
+                "圖徵編號": "3",
+                "id_1": "650003",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=3",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "200",
+                "CBH_cm": "628",
+                "id_2": "107-鶯-03",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "鶯歌區",
+                "location": "鶯歌區東湖街圳頭坑5號左後方山上 (日月圓咖啡前步道往上走)",
+                "state": "公告列管",
+                "esti_age": "207",
+                "height_m": "11.3",
+                "建立時間": "2022/6/14 下午 02:29:39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.38872,
+                    24.89399
+                ]
+            },
+            "properties": {
+                "圖徵編號": "4",
+                "id_1": "650004",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=4",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "105",
+                "CBH_cm": "330",
+                "id_2": "107-峽-01",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/0554156e4f164302b9562aaae02be859.jpg",
+                "photo_說明": "老樟樹～添福199號\n圖片來源：陳財發攝於2022/6/14",
+                "description": "",
+                "breed": "樟樹",
+                "sci_name": "Cinnamomum camphora",
+                "district": "三峽區",
+                "location": "三峽區添福里9鄰 (添福里199號)",
+                "state": "公告列管",
+                "esti_age": "117",
+                "height_m": "17.6",
+                "建立時間": "2022/6/14 下午 02:29:39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.38898,
+                    24.89444
+                ]
+            },
+            "properties": {
+                "圖徵編號": "5",
+                "id_1": "650005",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=5",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "80",
+                "CBH_cm": "250",
+                "id_2": "107-峽-02",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/542abf4e980a47be87e1213487a891b2.jpg",
+                "photo_說明": "老楓香～鹿興宮\n圖片來源：陳財發攝於2022/6/14",
+                "description": "",
+                "breed": "楓香",
+                "sci_name": "Liquidambar formosana",
+                "district": "三峽區",
+                "location": "三峽區添福里 9 鄰 (鹿興宮前)",
+                "state": "公告列管",
+                "esti_age": "117",
+                "height_m": "19.6",
+                "建立時間": "2022/6/14 下午 02:29:39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.38077,
+                    24.8946
+                ]
+            },
+            "properties": {
+                "圖徵編號": "6",
+                "id_1": "650006",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=6",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "99",
+                "CBH_cm": "310",
+                "id_2": "107-峽-03",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/bdbd537035ac4f438e74673f4889ac58.jpg",
+                "photo_說明": "老榕樹～鹿堀褔德宮\n圖片來源：陳財發攝於2022/6/14",
+                "description": "",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "三峽區",
+                "location": "三峽區添福里 9 鄰 (鹿崛福德宮)",
+                "state": "公告列管",
+                "esti_age": "117",
+                "height_m": "19.9",
+                "建立時間": "2022/6/14 下午 02:29:39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46458,
+                    24.97459
+                ]
+            },
+            "properties": {
+                "圖徵編號": "7",
+                "id_1": "650007",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=7",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "266",
+                "CBH_cm": "835",
+                "id_2": "107-土-01",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "大葉雀榕",
+                "sci_name": "Ficus caulocarpa",
+                "district": "土城區",
+                "location": "土城區青山路28巷底(16 巷進)清和福德宮",
+                "state": "公告列管",
+                "esti_age": "137",
+                "height_m": "16.3",
+                "建立時間": "2022/6/14 下午 02:29:39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45733,
+                    24.97244
+                ]
+            },
+            "properties": {
+                "圖徵編號": "8",
+                "id_1": "650008",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=8",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "241",
+                "CBH_cm": "758",
+                "id_2": "107-土-02",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "土城區",
+                "location": "土城區青雲路380 巷1號(德霖技術學院罕見樓後方 土地公廟後)",
+                "state": "公告列管",
+                "esti_age": "137",
+                "height_m": "17.1",
+                "建立時間": "2022/6/14 下午 02:29:39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44078,
+                    24.96783
+                ]
+            },
+            "properties": {
+                "圖徵編號": "9",
+                "id_1": "650009",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=9",
+                "n_temple": "大墓公",
+                "temple_URL": "",
+                "nlm_1": "擺接義塚大墓公",
+                "nlm1_URL": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20200225000002",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "158",
+                "CBH_cm": "497",
+                "id_2": "107-土-03",
+                "photo": "",
+                "photo_說明": "",
+                "description": "土城忠義路上的大墓公廟是當地閩南漳洲人的信仰中心，又稱「擺接義塚大墓公」，是海山地區著名的有應公信仰，也被登錄為文化資產中的歷史建築。位在大墓公廟旁，有三棵樹齡高達107年左右的樟樹，分別生長於大墓公廟的公園內，高大的樹木與先民的墓碑錯落其中，給人們一種莊重沉靜的氛圍。",
+                "breed": "樟樹",
+                "sci_name": "Cinnamomum camphora",
+                "district": "土城區",
+                "location": "土城區忠義路65之1號(大墓公廟後方小山丘上晉興宮後方)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "14",
+                "建立時間": "2022/6/14 下午 02:29:39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.41466,
+                    24.94391
+                ]
+            },
+            "properties": {
+                "圖徵編號": "10",
+                "id_1": "650011",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=11",
+                "n_temple": "福成宮",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "110",
+                "CBH_cm": "345",
+                "id_2": "107-土-05",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/937009b06b5b4ea9857d7733d8c415c3.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220511",
+                "description": "",
+                "breed": "香楠",
+                "sci_name": "Machilus zuihoensis",
+                "district": "土城區",
+                "location": "土城區龍泉路 39之 1 號(福成宮後)",
+                "state": "公告列管",
+                "esti_age": "307",
+                "height_m": "8.9",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43581,
+                    24.94817
+                ]
+            },
+            "properties": {
+                "圖徵編號": "11",
+                "id_1": "650014",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=14",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "129",
+                "CBH_cm": "405",
+                "id_2": "107-土-08",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "香楠",
+                "sci_name": "Machilus zuihoensis",
+                "district": "土城區",
+                "location": "土城區永寧路121-1號",
+                "state": "公告列管",
+                "esti_age": "200",
+                "height_m": "17.2",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44346,
+                    24.97424
+                ]
+            },
+            "properties": {
+                "圖徵編號": "12",
+                "id_1": "650015",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=15",
+                "n_temple": "土城五穀先帝廟",
+                "temple_URL": "http://trfc.tw/temples/NewTaipeiCity/tucheng/0113001-WGXDM",
+                "nlm_1": "仁德公園",
+                "nlm1_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=park&code=view&id=605",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "137",
+                "CBH_cm": "430",
+                "id_2": "107-土-09",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/12cd227c1a3d4b9da6428cf99c7bbe8c.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220512",
+                "description": "位於土城區和平路11號的仁德公園內，可以看見四棵老榕樹分別坐落在四處，推估的樹齡約有107歲，繁盛的樹蔭營造涼爽的休憩，是地方民眾散步聊天的好所在，周邊的環境，除了有一座從日本時代留下來的升旗台「懷恩亭」，而一旁的五穀先帝廟，也就是神農廟，主祀五穀先帝，廟宇建築雄偉且莊嚴，是土城當地重要的信仰之一，與一旁的老樹及公園一同成為當地社區的重要地標。",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "土城區",
+                "location": "土城區和平路11號-廣場中央 (五穀先帝廟-神農宮後，仁德公園內 座椅區)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "13.6",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44361,
+                    24.97431
+                ]
+            },
+            "properties": {
+                "圖徵編號": "13",
+                "id_1": "650016",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=16",
+                "n_temple": "土城五穀先帝廟",
+                "temple_URL": "http://trfc.tw/temples/NewTaipeiCity/tucheng/0113001-WGXDM",
+                "nlm_1": "仁德公園",
+                "nlm1_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=park&code=view&id=605",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "126",
+                "CBH_cm": "395",
+                "id_2": "107-土-10",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/f9de2de424034d9e8f27f53ecc27a866.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220512",
+                "description": "位於土城區和平路11號的仁德公園內，可以看見四棵老榕樹分別坐落在四處，推估的樹齡約有107歲，繁盛的樹蔭營造涼爽的休憩，是地方民眾散步聊天的好所在，周邊的環境，除了有一座從日本時代留下來的升旗台「懷恩亭」，而一旁的五穀先帝廟，也就是神農廟，主祀五穀先帝，廟宇建築雄偉且莊嚴，是土城當地重要的信仰之一，與一旁的老樹及公園一同成為當地社區的重要地標。",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "土城區",
+                "location": "土城區和平路11號-廣場右 (五穀先帝廟-神農宮後，仁德公園內 土城老人俱樂部左側)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "15.5",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44366,
+                    24.97431
+                ]
+            },
+            "properties": {
+                "圖徵編號": "14",
+                "id_1": "650017",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=17",
+                "n_temple": "土城五穀先帝廟",
+                "temple_URL": "http://trfc.tw/temples/NewTaipeiCity/tucheng/0113001-WGXDM",
+                "nlm_1": "仁德公園",
+                "nlm1_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=park&code=view&id=605",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "144",
+                "CBH_cm": "452",
+                "id_2": "107-土-11",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/5f36084e07e34cde8424f1f32aca2949.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220512",
+                "description": "位於土城區和平路11號的仁德公園內，可以看見四棵老榕樹分別坐落在四處，推估的樹齡約有107歲，繁盛的樹蔭營造涼爽的休憩，是地方民眾散步聊天的好所在，周邊的環境，除了有一座從日本時代留下來的升旗台「懷恩亭」，而一旁的五穀先帝廟，也就是神農廟，主祀五穀先帝，廟宇建築雄偉且莊嚴，是土城當地重要的信仰之一，與一旁的老樹及公園一同成為當地社區的重要地標。",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "土城區",
+                "location": "土城區和平路11號-涼亭旁 (五穀先帝廟-神農宮後，仁德公園內土城老人俱樂部右側)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "13.1",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4435,
+                    24.97428
+                ]
+            },
+            "properties": {
+                "圖徵編號": "15",
+                "id_1": "650018",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=18",
+                "n_temple": "土城五穀先帝廟",
+                "temple_URL": "http://trfc.tw/temples/NewTaipeiCity/tucheng/0113001-WGXDM",
+                "nlm_1": "仁德公園",
+                "nlm1_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=park&code=view&id=605",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "138",
+                "CBH_cm": "432",
+                "id_2": "107-土-12",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/b7e2af6dc8984e0c8a9218cec7a5c3ad.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220512",
+                "description": "位於土城區和平路11號的仁德公園內，可以看見四棵老榕樹分別坐落在四處，推估的樹齡約有107歲，繁盛的樹蔭營造涼爽的休憩，是地方民眾散步聊天的好所在，周邊的環境，除了有一座從日本時代留下來的升旗台「懷恩亭」，而一旁的五穀先帝廟，也就是神農廟，主祀五穀先帝，廟宇建築雄偉且莊嚴，是土城當地重要的信仰之一，與一旁的老樹及公園一同成為當地社區的重要地標。",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "土城區",
+                "location": "土城區和平路11號-廣場左 (五穀先帝廟-神農宮後，仁德公園內近圍欄)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "13.5",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44871,
+                    24.9904
+                ]
+            },
+            "properties": {
+                "圖徵編號": "16",
+                "id_1": "650020",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=20",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "142",
+                "CBH_cm": "445",
+                "id_2": "107-土-14",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "土城區",
+                "location": "土城區中央路一段45巷3號(德興宮後)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "12.3",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44867,
+                    24.99049
+                ]
+            },
+            "properties": {
+                "圖徵編號": "17",
+                "id_1": "650021",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=21",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "64",
+                "CBH_cm": "200",
+                "id_2": "107-土-15",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "九芎",
+                "sci_name": "Lagerstroemia subcostata",
+                "district": "土城區",
+                "location": "土城區中央路一段45巷3號 (德興宮後)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "13.3",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45955,
+                    24.97178
+                ]
+            },
+            "properties": {
+                "圖徵編號": "18",
+                "id_1": "650022",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=22",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "61",
+                "CBH_cm": "191",
+                "id_2": "107-土-16",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "樟樹",
+                "sci_name": "Cinnamomum camphora",
+                "district": "土城區",
+                "location": "土城區青雲路585-1號旁 (福興宮後-青龍嶺步道旁)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "18.5",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46475,
+                    24.96886
+                ]
+            },
+            "properties": {
+                "圖徵編號": "19",
+                "id_1": "650024",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=24",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "117",
+                "CBH_cm": "368",
+                "id_2": "107-土-18",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "荔枝",
+                "sci_name": "Litchi chinensis",
+                "district": "土城區",
+                "location": "土城區青雲路587巷六福宮 9-1 號後山上 (沿著步道走，遇到三叉路口往右，前行 30 m)",
+                "state": "公告列管",
+                "esti_age": "207",
+                "height_m": "19.3",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44163,
+                    24.96016
+                ]
+            },
+            "properties": {
+                "圖徵編號": "20",
+                "id_1": "650026",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=26",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "127",
+                "CBH_cm": "400",
+                "id_2": "107-土-20",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "土城區",
+                "location": "土城區承天路 62 巷2號左轉底打鐵坑 (土地公廟後)",
+                "state": "公告列管",
+                "esti_age": "200",
+                "height_m": "11.6",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43511,
+                    24.99639
+                ]
+            },
+            "properties": {
+                "圖徵編號": "21",
+                "id_1": "650029",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=29",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "153",
+                "CBH_cm": "480",
+                "id_2": "107-板-01",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "板橋區",
+                "location": "板橋區大觀路三段2巷21號",
+                "state": "公告列管",
+                "esti_age": "117",
+                "height_m": "12.3",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47087,
+                    25.02986
+                ]
+            },
+            "properties": {
+                "圖徵編號": "22",
+                "id_1": "650030",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=30",
+                "n_temple": "農村福德宮",
+                "temple_URL": "",
+                "nlm_1": "農村公園",
+                "nlm1_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=park&code=view&id=208",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "121",
+                "CBH_cm": "380",
+                "id_2": "107-板-02",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/9750dbabf9fe4e2682e60bf72fa2573f.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220517",
+                "description": "在板橋吳鳳路上的「板橋農村公園」，是以台灣農村特色為主題的公園，除了有許多園藝造景、三合院建築等等景觀，園內也可以看見許多高大的樹木，特別的是，公園內有一座「農村福德宮」，裡頭供奉著的土地公，靜靜的庇佑著當地的信徒們。在土地公廟後方有一棵約107歲的老榕樹緊鄰著。寬大的樹冠使老樹看起來相當雄偉。",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "板橋區",
+                "location": "板橋區吳鳳路50巷46號(農村公園)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "14.6",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47542,
+                    25.02514
+                ]
+            },
+            "properties": {
+                "圖徵編號": "23",
+                "id_1": "650031",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=31",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "八德公園",
+                "nlm1_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=park&code=view&id=210",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "73",
+                "CBH_cm": "230",
+                "id_2": "107-板-03",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/d5290a947fb94b0fbddf2a6f96eff70c.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220517",
+                "description": "占地28126平方公尺的八德公園，是板橋一帶的居民閒暇時的休憩場所之一，除了有各式遊具提供小孩玩耍，也有設置許多健體設施和運動設施，供民眾來公園運動。在八德公園的一角，有兩棵百年老榕樹靜靜矗立在步道旁。蜿蜒的步道是特地為了老樹繞開，使珍貴的老樹可以繼續為散步的民眾遮陰。",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "板橋區",
+                "location": "板橋區雙十路二段33巷 62 號前 (八德公園旁)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "13.3",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47545,
+                    25.02519
+                ]
+            },
+            "properties": {
+                "圖徵編號": "24",
+                "id_1": "650032",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=32",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "八德公園",
+                "nlm1_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=park&code=view&id=210",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "160",
+                "CBH_cm": "501",
+                "id_2": "107-板-04",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/8d6e78a0496a457d983ffcdefd268a83.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220517",
+                "description": "占地28126平方公尺的八德公園，是板橋一帶的居民閒暇時的休憩場所之一，除了有各式遊具提供小孩玩耍，也有設置許多健體設施和運動設施，供民眾來公園運動。在八德公園的一角，有兩棵百年老榕樹靜靜矗立在步道旁。蜿蜒的步道是特地為了老樹繞開，使珍貴的老樹可以繼續為散步的民眾遮陰。",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "板橋區",
+                "location": "板橋區雙十路二段33巷62號前(八德公園)",
+                "state": "公告列管",
+                "esti_age": "117",
+                "height_m": "11.4",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46492,
+                    25.01686
+                ]
+            },
+            "properties": {
+                "圖徵編號": "25",
+                "id_1": "650033",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=33",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "尋夢園地",
+                "nlm1_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=park&code=view&id=903",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "86",
+                "CBH_cm": "270",
+                "id_2": "107-板-05",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/05338167e13b4d18bbd6964f7df7b179.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220517",
+                "description": "",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "板橋區",
+                "location": "板橋區漢生東路3號(板橋區文化路與 漢生西路交叉口的綠地)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "12.6",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46464,
+                    25.01697
+                ]
+            },
+            "properties": {
+                "圖徵編號": "26",
+                "id_1": "650034",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=34",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "尋夢園地",
+                "nlm1_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=park&code=view&id=903",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "92",
+                "CBH_cm": "290",
+                "id_2": "107-板-06",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/e9c8b65df34d4b1d957aed0ff905fec8.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220517",
+                "description": "",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "板橋區",
+                "location": "板橋區漢生東路3號(板橋區文化路與漢生西路交叉口的綠地)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "12.3",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.42117,
+                    24.99786
+                ]
+            },
+            "properties": {
+                "圖徵編號": "27",
+                "id_1": "650038",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=38",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "57",
+                "CBH_cm": "180",
+                "id_2": "107-樹-04",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "茄苳",
+                "sci_name": "Bischofia javanica",
+                "district": "樹林區",
+                "location": "新北市樹林區豐林街64號 (福德宮內 左後方遮雨棚內)",
+                "state": "公告列管",
+                "esti_age": "122",
+                "height_m": "8.1",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.40477,
+                    24.96195
+                ]
+            },
+            "properties": {
+                "圖徵編號": "28",
+                "id_1": "650039",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=39",
+                "n_temple": "埔頭福德廟",
+                "temple_URL": "",
+                "nlm_1": "三樹公",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "209",
+                "CBH_cm": "655",
+                "id_2": "107-樹-05",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/20ae3a80252f4b7b8bdd3dd3b6b10010.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220512",
+                "description": "在樹林柑園一帶有一座埔頭福德廟，是一座小小的土地公廟，雖然隱身在小巷弄內，卻香火不斷。特別的是，在廟的後方有一株「三樹共棲」的老樹，分別是榕樹、烏?、雀榕，而且已經有超過兩百年的樹齡，相當珍貴，因此被當地人稱為「三樹公」，並且還搭建了一個拜亭來祭祀。可見當地信眾對老樹的敬仰和樹神的信仰。",
+                "breed": "榕樹、烏?、雀榕",
+                "sci_name": "Ficus microcarpa； Sapium sebiferum；Ficus superba v",
+                "district": "樹林區",
+                "location": "新北市樹林區柑園街一段38巷8弄(福德宮後)",
+                "state": "公告列管",
+                "esti_age": "217",
+                "height_m": "14.3",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.38748,
+                    24.95564
+                ]
+            },
+            "properties": {
+                "圖徵編號": "29",
+                "id_1": "650040",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=40",
+                "n_temple": "福興廟",
+                "temple_URL": "http://trfc.tw/temples/NewTaipeiCity/shulin/0107024-FXM",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "82",
+                "CBH_cm": "258",
+                "id_2": "107-樹-06",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/26f3c2f9808644c78cca9702a4239ba2.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220504",
+                "description": "",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "樹林區",
+                "location": "樹林區柑園街二段30巷，進入巷口的左側(福興宮對面)",
+                "state": "公告列管",
+                "esti_age": "267",
+                "height_m": "12.1",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.38572,
+                    24.94614
+                ]
+            },
+            "properties": {
+                "圖徵編號": "30",
+                "id_1": "650041",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=41",
+                "n_temple": "隆恩宮土地公廟",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "131",
+                "CBH_cm": "411",
+                "id_2": "107-樹-07",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/f49a98034fff4ebb8fc42a79cec0cced.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220504",
+                "description": "",
+                "breed": "雀榕",
+                "sci_name": "Ficus superba var. japonica",
+                "district": "樹林區",
+                "location": "樹林區佳園路三段 219 巷 3 號前 (隆恩宮土地公廟)",
+                "state": "公告列管",
+                "esti_age": "217",
+                "height_m": "10.8",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.39186,
+                    24.98734
+                ]
+            },
+            "properties": {
+                "圖徵編號": "31",
+                "id_1": "650042",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=42",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "117",
+                "CBH_cm": "366",
+                "id_2": "107-樹-08",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "樹林區",
+                "location": "樹林區東和街(往廣雲宮方向)84號 福興宮土地公廟旁",
+                "state": "公告列管",
+                "esti_age": "132",
+                "height_m": "10.9",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.37888,
+                    24.97297
+                ]
+            },
+            "properties": {
+                "圖徵編號": "32",
+                "id_1": "650043",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=43",
+                "n_temple": "福德宮",
+                "temple_URL": "",
+                "nlm_1": "樹林石灰坑拱橋",
+                "nlm1_URL": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20140314000001",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "111",
+                "CBH_cm": "350",
+                "id_2": "107-樹-09",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "無患子",
+                "sci_name": "Sapindus saponaria",
+                "district": "樹林區",
+                "location": "樹林區民和街83巷 10 號前(福德園內 涼亭左側)",
+                "state": "公告列管",
+                "esti_age": "117",
+                "height_m": "11.4",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.37892,
+                    24.97293
+                ]
+            },
+            "properties": {
+                "圖徵編號": "33",
+                "id_1": "650044",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=44",
+                "n_temple": "福德宮",
+                "temple_URL": "",
+                "nlm_1": "樹林石灰坑拱橋",
+                "nlm1_URL": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20140314000001",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "89",
+                "CBH_cm": "280",
+                "id_2": "107-樹-10",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/dcd563749a474ee497f579182893006b.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220512",
+                "description": "",
+                "breed": "樟樹",
+                "sci_name": "Cinnamomum camphora",
+                "district": "樹林區",
+                "location": "樹林區民和街83巷 10 號前(福德園內 涼亭後方)",
+                "state": "公告列管",
+                "esti_age": "117",
+                "height_m": "14",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.36829,
+                    24.97666
+                ]
+            },
+            "properties": {
+                "圖徵編號": "34",
+                "id_1": "650045",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=45",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "145",
+                "CBH_cm": "455",
+                "id_2": "107-樹-11",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/01501e006c6a4df8a4ff4c17e5f3073f.jpg",
+                "photo_說明": "人文之支撐。\n拍攝者：Sky Lin 2022/6/11",
+                "description": "",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "樹林區",
+                "location": "樹林區民和街樂山里光明產業道路(石灰段)",
+                "state": "公告列管",
+                "esti_age": "357",
+                "height_m": "12.4",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.40237,
+                    24.97488
+                ]
+            },
+            "properties": {
+                "圖徵編號": "35",
+                "id_1": "650046",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=46",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "70",
+                "CBH_cm": "220",
+                "id_2": "107-樹-12",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "茄苳",
+                "sci_name": "Bischofia javanica",
+                "district": "樹林區",
+                "location": "樹林區中山路三段5號-廣場右邊 (山佳國小內 操場前至美樓旁)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "10",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.40213,
+                    24.9749
+                ]
+            },
+            "properties": {
+                "圖徵編號": "36",
+                "id_1": "650047",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=47",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "175",
+                "CBH_cm": "56",
+                "id_2": "107-樹-13",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "茄苳",
+                "sci_name": "Bischofia javanica",
+                "district": "樹林區",
+                "location": "樹林區中山路三段5號-靠近運動場右邊 (山佳國小內 操場旁至善樓前)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "9.7",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.40218,
+                    24.97491
+                ]
+            },
+            "properties": {
+                "圖徵編號": "37",
+                "id_1": "650048",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=48",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "54",
+                "CBH_cm": "170",
+                "id_2": "107-樹-14",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "茄苳",
+                "sci_name": "Bischofia javanica",
+                "district": "樹林區",
+                "location": "樹林區中山路三段5號-靠近運動場左邊(山佳國小內 操場旁旗桿左側)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "9.1",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.40207,
+                    24.975
+                ]
+            },
+            "properties": {
+                "圖徵編號": "38",
+                "id_1": "650049",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=49",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "77",
+                "CBH_cm": "242",
+                "id_2": "107-樹-15",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "茄苳",
+                "sci_name": "Bischofia javanica",
+                "district": "樹林區",
+                "location": "樹林區中山路三段5號-靠近運動場中間 (山佳國小璞園內垃圾回收桶前)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "11.6",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.40218,
+                    24.975
+                ]
+            },
+            "properties": {
+                "圖徵編號": "39",
+                "id_1": "650050",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=50",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "88",
+                "CBH_cm": "275",
+                "id_2": "107-樹-16",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "茄苳",
+                "sci_name": "Bischofia javanica",
+                "district": "樹林區",
+                "location": "樹林區中山路三段5號-廣場中央 (山佳國小璞園內)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "8.3",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47242,
+                    25.00014
+                ]
+            },
+            "properties": {
+                "圖徵編號": "40",
+                "id_1": "650089",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=89",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "自強公園",
+                "nlm1_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=park&code=view&id=98",
+                "nlm_2": "中和瑞穗配水池",
+                "nlm2_URL": "https://nchdb.boch.gov.tw/assets/overview/monument/20050913000002",
+                "health_sta": "",
+                "DBH_cm": "61",
+                "CBH_cm": "190",
+                "id_2": "107-中-01",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/725dd6969e8d407390aedfbd2aaaaeec.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220610",
+                "description": "",
+                "breed": "黑松",
+                "sci_name": "Pinus thunbergii?",
+                "district": "中和區",
+                "location": "中和區莒光路160-1 號(消防局後方自強公園饅 頭山上休憩平台後方)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "12.6",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48759,
+                    24.98875
+                ]
+            },
+            "properties": {
+                "圖徵編號": "41",
+                "id_1": "650090",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=90",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "61",
+                "CBH_cm": "192",
+                "id_2": "107-中-02",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/252287beb5bf44e6bc8fc7f3b5f23d78.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220610",
+                "description": "",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "中和區",
+                "location": "中和區圓通路429號(牛埔福德宮旁)",
+                "state": "公告列管",
+                "esti_age": "120",
+                "height_m": "8",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.49236,
+                    24.98217
+                ]
+            },
+            "properties": {
+                "圖徵編號": "42",
+                "id_1": "650091",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=91",
+                "n_temple": "圓通禪寺",
+                "temple_URL": "http://trfc.tw/temples/NewTaipeiCity/junghe/0103053-YTCS",
+                "nlm_1": "中和區「圓通禪寺」",
+                "nlm1_URL": "https://nchdb.boch.gov.tw/assets/overview/monument/20161109000001",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "105",
+                "CBH_cm": "330",
+                "id_2": "107-中-03",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/e2f912591066432fbba3f42ce828c00f.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220610",
+                "description": "",
+                "breed": "樟樹",
+                "sci_name": "Cinnamomum camphora",
+                "district": "中和區",
+                "location": "中和區圓通路367巷 64號(圓通寺往慈雲寺步道上)",
+                "state": "公告列管",
+                "esti_age": "119",
+                "height_m": "19.3",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.49755,
+                    24.98425
+                ]
+            },
+            "properties": {
+                "圖徵編號": "43",
+                "id_1": "650092",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=92",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "446",
+                "CBH_cm": "1400",
+                "id_2": "107-中-04",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/623c96ebd180427ba16ee20e12bf783f.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220610",
+                "description": "",
+                "breed": "雀榕",
+                "sci_name": "Ficus superba var. japonica",
+                "district": "中和區",
+                "location": "中和區圓通路367巷64號(圓通寺後方國旗嶺登山區 福靈宮後方)",
+                "state": "公告列管",
+                "esti_age": "367",
+                "height_m": "15",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43024,
+                    24.99861
+                ]
+            },
+            "properties": {
+                "圖徵編號": "44",
+                "id_1": "650212",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=212",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "70",
+                "CBH_cm": "220",
+                "id_2": "107-樹-17",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "台灣朴樹",
+                "sci_name": "Celtis formosana",
+                "district": "樹林區",
+                "location": "新北市樹林區樹新路與俊英街交叉口(十三公紀念碑旁)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "10.8",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44011,
+                    24.96794
+                ]
+            },
+            "properties": {
+                "圖徵編號": "45",
+                "id_1": "650214",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=214",
+                "n_temple": "大墓公",
+                "temple_URL": "",
+                "nlm_1": "擺接義塚大墓公",
+                "nlm1_URL": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20200225000002",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "107",
+                "CBH_cm": "335",
+                "id_2": "107-土-24",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/c7d06a8c88b44c7583934e95a7833841.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220512",
+                "description": "土城忠義路上的大墓公廟是當地閩南漳洲人的信仰中心，又稱「擺接義塚大墓公」，是海山地區著名的有應公信仰，也被登錄為文化資產中的歷史建築。位在大墓公廟旁，有三棵樹齡高達107年左右的樟樹，分別生長於大墓公廟的公園內，高大的樹木與先民的墓碑錯落其中，給人們一種莊重沉靜的氛圍。",
+                "breed": "樟樹",
+                "sci_name": "Cinnamomum camphora",
+                "district": "土城區",
+                "location": "土城區忠義路61號(大墓公廟旁)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "16.2",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44003,
+                    24.96792
+                ]
+            },
+            "properties": {
+                "圖徵編號": "46",
+                "id_1": "650215",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=215",
+                "n_temple": "大墓公",
+                "temple_URL": "",
+                "nlm_1": "擺接義塚大墓公",
+                "nlm1_URL": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20200225000002",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "66",
+                "CBH_cm": "208",
+                "id_2": "107-土-25",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/132e28637411420fa8af441457679a42.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220512",
+                "description": "土城忠義路上的大墓公廟是當地閩南漳洲人的信仰中心，又稱「擺接義塚大墓公」，是海山地區著名的有應公信仰，也被登錄為文化資產中的歷史建築。位在大墓公廟旁，有三棵樹齡高達107年左右的樟樹，分別生長於大墓公廟的公園內，高大的樹木與先民的墓碑錯落其中，給人們一種莊重沉靜的氛圍。",
+                "breed": "樟樹",
+                "sci_name": "Cinnamomum camphora",
+                "district": "土城區",
+                "location": "土城區忠義路61號(大墓公公園 涼亭前)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "14.1",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52078,
+                    25.01322
+                ]
+            },
+            "properties": {
+                "圖徵編號": "47",
+                "id_1": "650322",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=322",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "100",
+                "CBH_cm": "314",
+                "id_2": "107-永-17",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "朴子樹",
+                "sci_name": "Celtis sinensis",
+                "district": "永和區",
+                "location": "新北市永和區竹林路79號(永和區網溪國小操場旁)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "10.5",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47836,
+                    24.99667
+                ]
+            },
+            "properties": {
+                "圖徵編號": "48",
+                "id_1": "650335",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=335",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "嘉穗公園",
+                "nlm1_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=park&code=view&id=100",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "398",
+                "CBH_cm": "1250",
+                "id_2": "107-中-13",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/4c35e175f061469ea0d49d191310e484.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220610",
+                "description": "",
+                "breed": "印度橡膠樹",
+                "sci_name": "Ficus elastica",
+                "district": "中和區",
+                "location": "中和區民利街9巷2號(中和區嘉穗公園 後山)",
+                "state": "公告列管",
+                "esti_age": "300",
+                "height_m": "13.6",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48859,
+                    24.99308
+                ]
+            },
+            "properties": {
+                "圖徵編號": "49",
+                "id_1": "650337",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=337",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "錦和運動公園",
+                "nlm1_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=park&code=view&id=135",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "132",
+                "CBH_cm": "415",
+                "id_2": "107-中-15",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/3ad6325d14044c3789125dadc9710eb9.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220610",
+                "description": "",
+                "breed": "茄苳",
+                "sci_name": "Bischofia javanica",
+                "district": "中和區",
+                "location": "中和區錦和路350號(中和區錦和運動公園 遊戲場旁)",
+                "state": "公告列管",
+                "esti_age": "100",
+                "height_m": "12.2",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45558,
+                    25.01053
+                ]
+            },
+            "properties": {
+                "圖徵編號": "50",
+                "id_1": "650455",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=455",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "林本源園邸",
+                "nlm1_URL": "https://nchdb.boch.gov.tw/assets/overview/monument/19850819000028",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "87",
+                "CBH_cm": "272",
+                "id_2": "107-板-20",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/3c7a0abc8bae417ebd3162049937b459.JPG",
+                "photo_說明": "拍攝者：洪健榮 拍攝日期：20180723",
+                "description": "",
+                "breed": "芒果樹",
+                "sci_name": "Mangifera indica",
+                "district": "板橋區",
+                "location": "板橋區西門街9號(國定古蹟林本源園邸來青閣)",
+                "state": "公告列管",
+                "esti_age": "115",
+                "height_m": "13.2",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44483,
+                    24.99928
+                ]
+            },
+            "properties": {
+                "圖徵編號": "51",
+                "id_1": "650460",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=460",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "親民公園",
+                "nlm1_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=park&code=view&id=243",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "424",
+                "CBH_cm": "1330",
+                "id_2": "107-板-25",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/6949fe83e35c42d19b1bdd2bbfb3aff7.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220529",
+                "description": "",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "板橋區",
+                "location": "板橋區大觀路二段力行一巷(板橋區浮洲親民公園)",
+                "state": "公告列管",
+                "esti_age": "100",
+                "height_m": "9.7",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.46794,
+                    25.01139
+                ]
+            },
+            "properties": {
+                "圖徵編號": "52",
+                "id_1": "650480",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=480",
+                "n_temple": "深丘福德宮",
+                "temple_URL": "",
+                "nlm_1": "福德公園",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "242",
+                "CBH_cm": "760",
+                "id_2": "107-板-45",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/4fad9008fd8a483c80d3305eebb4d349.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220529",
+                "description": "在板橋的福德公園，位於板橋體育場旁，位處新板特區的精華地段。公園內除了有空曠的綠地以外，還有一棵百年老樹和和老土地公廟。「深丘福德宮」據板橋市志記載從清光緒八年建立，後因配合新板特區的開發從現今新北市稅捐處大樓一帶遷至現址，仍是當地信仰中心。一旁的百年雀榕巨大的樹冠與土地公廟雄偉的建築互相襯托彼此，使公園裡的老樹和老廟成為一大特色。",
+                "breed": "雀榕",
+                "sci_name": "Ficus superba  var. japonica",
+                "district": "板橋區",
+                "location": "板橋區區運路77號(深丘福德宮旁)",
+                "state": "公告列管",
+                "esti_age": "100",
+                "height_m": "11.6",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44228,
+                    24.97239
+                ]
+            },
+            "properties": {
+                "圖徵編號": "53",
+                "id_1": "650662",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=662",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "土城國小",
+                "nlm1_URL": "https://www.ttcps.ntpc.edu.tw/",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "20",
+                "CBH_cm": "64",
+                "id_2": "107-土-26",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "台灣肖楠",
+                "sci_name": "Calocedrus macrolepis Kurz var. formosana",
+                "district": "土城區",
+                "location": "土城區興城路17號(土城國小總務處前)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "15.3",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.40969,
+                    24.95145
+                ]
+            },
+            "properties": {
+                "圖徵編號": "54",
+                "id_1": "650673",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=673",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "150",
+                "CBH_cm": "470",
+                "id_2": "107-土-37",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/d18a297ce41341229fb4a2b6cfcd513c.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220512",
+                "description": "",
+                "breed": "苦楝",
+                "sci_name": "Melia azedarach",
+                "district": "土城區",
+                "location": "土城區溪頭路125 號對面(祖田里辦公室對面)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "17",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44797,
+                    24.9626
+                ]
+            },
+            "properties": {
+                "圖徵編號": "55",
+                "id_1": "650690",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=690",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "178",
+                "CBH_cm": "560",
+                "id_2": "107-土-54",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "香楠",
+                "sci_name": "Machilus zuihoensis",
+                "district": "土城區",
+                "location": "土城區和平路123號(大地馬術俱樂部上方魚池旁)",
+                "state": "公告列管",
+                "esti_age": "107",
+                "height_m": "10.8",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45611,
+                    24.98111
+                ]
+            },
+            "properties": {
+                "圖徵編號": "56",
+                "id_1": "651029",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=1029",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "274",
+                "CBH_cm": "860",
+                "id_2": "107-土-56",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "土城區",
+                "location": "土城區清水路32巷13-1號(大安圳旁)",
+                "state": "公告列管",
+                "esti_age": "100",
+                "height_m": "13.5",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.41661,
+                    24.94348
+                ]
+            },
+            "properties": {
+                "圖徵編號": "57",
+                "id_1": "651032",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=1032",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "95",
+                "CBH_cm": "297",
+                "id_2": "107-土-57",
+                "photo": "https://www.tgos.tw:443/MapSites/VirtualDir/Theme/30796/Pic/73ff1ca2e03d48c3be4fd9415716fa45.JPG",
+                "photo_說明": "拍攝者：劉祐任 拍攝日期：20220512",
+                "description": "",
+                "breed": "台灣楠木",
+                "sci_name": "Machilus  sp.",
+                "district": "土城區",
+                "location": "土城區龍泉路64號 (普安堂外廟屋簷旁)",
+                "state": "公告列管",
+                "esti_age": "100",
+                "height_m": "21.1",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.41727,
+                    24.94435
+                ]
+            },
+            "properties": {
+                "圖徵編號": "58",
+                "id_1": "651033",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=1033",
+                "n_temple": "普安堂",
+                "temple_URL": "http://trfc.tw/temples/NewTaipeiCity/tucheng/0113026-PAT",
+                "nlm_1": "土城普安堂",
+                "nlm1_URL": "https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20160817000001",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "111",
+                "CBH_cm": "350",
+                "id_2": "107-土-58",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "龍眼",
+                "sci_name": "Euphoria longana",
+                "district": "土城區",
+                "location": "土城區龍泉路64號(普安堂內)",
+                "state": "公告列管",
+                "esti_age": "100",
+                "height_m": "14",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45332,
+                    24.98104
+                ]
+            },
+            "properties": {
+                "圖徵編號": "59",
+                "id_1": "651034",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=1034",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "213",
+                "CBH_cm": "670",
+                "id_2": "107-土-59",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "榕樹",
+                "sci_name": "Ficus microcarpa",
+                "district": "土城區",
+                "location": "土城區清水路1-1號斜對面40公尺",
+                "state": "公告列管",
+                "esti_age": "100",
+                "height_m": "10.1",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.42738,
+                    24.99247
+                ]
+            },
+            "properties": {
+                "圖徵編號": "60",
+                "id_1": "651040",
+                "tree_URL": "https://www.landscaping.ntpc.gov.tw/cht/index.php?act=precious_trees&code=view&id=1040",
+                "n_temple": "",
+                "temple_URL": "",
+                "nlm_1": "",
+                "nlm1_URL": "",
+                "nlm_2": "",
+                "nlm2_URL": "",
+                "health_sta": "",
+                "DBH_cm": "88",
+                "CBH_cm": "275",
+                "id_2": "107-樹-43",
+                "photo": "",
+                "photo_說明": "",
+                "description": "",
+                "breed": "茄苳",
+                "sci_name": "Bischofia javanica",
+                "district": "樹林區",
+                "location": "新北市樹林區博愛街33號(樹林樹德宮後方)",
+                "state": "公告列管",
+                "esti_age": "200",
+                "height_m": "9.2",
+                "建立時間": "2022/6/14 下午 02:29:40"
+            }
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KML 製作練習</name>
+	<gx:CascadingStyle kml:id="__managed_style_00035928A32AEC651B42">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1FC272FB6A2AEC651B41">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.66667</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0D75DB18D42AEC651B41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1FC272FB6A2AEC651B41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_00035928A32AEC651B42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0EC1D5550C2AEC647802">
+		<name>台大</name>
+		<description><![CDATA[<div>國立臺灣大學（簡稱臺灣大學、臺大、NTU），1928年創立於臺北市，是臺灣第一所高等教育機構，為中華民國學生人數最多的大專院校。前身為大日本帝國九所帝國大學之一的「臺北帝國大學」，1945年中華民國接收臺灣後經改制與易名始用現名。現設有11個學院、3個專業學院，下分56個學系、111個研究所與18個學位學程；另設有超過50餘個各學術領域之國家級或校級研究中心以及進修推廣部、臺大醫院等附屬機構，是全臺唯一學生人數超過三萬的高等教育學校。其擁有臺北市境內的3大校區、以及多處散布於全臺的分支校區與校地，總面積超過340平方公里（3萬4千公頃），佔臺灣土地總面積的百分之一。（來源：維基百科）<br></div>]]></description>
+		<LookAt>
+			<longitude>121.5384964383144</longitude>
+			<latitude>25.01707016910397</latitude>
+			<altitude>8.342707979196202</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2449.356040834682</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D75DB18D42AEC651B41</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						121.5336964624781,25.01561271778562,9.138087375386519 121.5361396794363,25.01323930113116,11.16092945978023 121.536683889241,25.01234405832155,11.60939499703376 121.5373100428899,25.01141822154041,11.60947611863151 121.5463231567544,25.01920214441466,6.672517051296623 121.5445395366612,25.02086283248812,6.824729747419813 121.5439950316814,25.02104265110321,6.665164948153615 121.5411213958823,25.02110181753794,7.108303974866381 121.5401297289939,25.0211738251649,8.788525290403932 121.5387605392867,25.02135538874205,7.544627283596128 121.5380011242866,25.02177538211183,6.925983106096933 121.536713092206,25.02243426526557,6.665859971985002 121.5344508651469,25.02243424806514,6.662687897393327 121.5333117810867,25.01709252307785,6.66123521758736 121.5328494809224,25.0165987425557,6.666415572314186 121.5336964624781,25.01561271778562,9.138087375386519 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
